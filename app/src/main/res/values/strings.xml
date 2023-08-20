@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">ESP-Remote</string>
+    <string name="start_shutdown">Start/Shutdown</string>
+    <string name="restart">Restart</string>
+    <string name="force_shutdown">Force Shutdown</string>
+    <string name="update">Update</string>
+    <string name="version">Version</string>
+    <string name="url" translatable="false">http://esp8266</string>
+    <string name="upurl" translatable="false">https://web.metl-group.xyz</string>
+</resources>
